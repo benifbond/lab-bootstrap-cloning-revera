@@ -1,44 +1,9 @@
-.container {
 
-  background-color:#27282c;
-  color: white;
-  position:fixed;
-  z-index:1;
-  left: 0;
-  top: 0;
-  display: inline-block;
-  line-height:2rem;
-  padding: 5px 0 6px;
-  margin:0 auto;
-
-  font-family:helvetica,Arial,sans-serif;
-  font-weight:300;
-}
-a {
-  margin:20px
-}
-a:link{
-  text-decoration:none;
-  color:inherit;
-
-
-  }
-
-#tpbr_box{
-    vertical-align: inherit;
+body{
+  text-align: center;
 }
 
- .input_top{
-  display: inline-block;
-  padding:0px 12px 1px;
-  text-decoration: none;
-  margin: 1px 14px 0px ;
-  border-radius: 3px;
 
-}
-#tpbr_box{
-  display: inline;
-}
-.navbar {
-  margin-top: 75px
+.project{
+  width: 100%
 }
